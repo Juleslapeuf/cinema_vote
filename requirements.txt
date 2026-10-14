@@ -1,0 +1,11 @@
+# Analyse et manipulation des donnees
+pandas
+openpyxl
+xlrd
+linearmodels
+
+# Acces aux fichiers S3 compatibles SSPCloud
+s3fs
+
+# Execution du notebook
+jupyterlab
